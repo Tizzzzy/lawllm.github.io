@@ -1,5 +1,4 @@
-# Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning
-
+# LawLLM: Law Large Language Model for the US Legal System
 
 
 
